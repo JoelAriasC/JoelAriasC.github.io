@@ -12,7 +12,6 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  padding: 2rem;
   font-size: 15px;
   font-family: "Lexend Deca", sans-serif;
   color: white;
@@ -22,6 +21,7 @@ body {
   max-width: 320px;
   border-radius: 10px;
   overflow: hidden;
+  margin: 2rem 0;
 }
 
 .container {
